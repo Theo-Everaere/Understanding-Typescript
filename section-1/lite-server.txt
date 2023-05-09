@@ -1,0 +1,7 @@
+Pour re compiler autmatiquement le code après modification, on peut utiliser lite-server.
+
+npm init pour avoir le fichier node_modules
+
+puis npm i --save-dev lite-server
+
+puis dans package.json, ajouter le script npm start soit "start" : "lite-server"
